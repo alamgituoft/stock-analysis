@@ -8,12 +8,15 @@ By refactoring the code, the data shows that in 2017 the stock market outperfome
 
 ## 2018 Stock Analysis Results 
 <img width="1440" alt="All Stocks 2018" src="https://user-images.githubusercontent.com/81877387/117559108-9d6d7280-b050-11eb-8fca-fa8f7866c00a.png">
+
 ## Code for formating data with color conditions, percentages & values 
 Formating Code![image](https://user-images.githubusercontent.com/81877387/117559194-516efd80-b051-11eb-99c3-74078eed5590.png)
 
 Overall with refactoring the original code, the time performance is only slightly longer (0.67 seconds for the refactoring code compared to 0.63 seconds). 
+
+## Timeframe of orignal script in 2018 compared to refactored code in 2018 
 <img width="1440" alt="Green Stocks 2018 " src="https://user-images.githubusercontent.com/81877387/117559408-01913600-b053-11eb-8896-4986e0e60882.png">
-## Timeframe of orignal script in 2018 compared to refactored code in 2018
+
 Although the refactored code is slightly longer than the original, running the new refactored code is still completed within 6 seconds with a cleaner code compared to the original. 
 
 ## Summary:
