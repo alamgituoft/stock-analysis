@@ -2,7 +2,7 @@
 ## Overview of Project: Stock Analysis Assignment Using VBA
 ### The purpose of this project is to refactor the code already used in the original script so that the code can be used on a larger dataset for the stock market over the last few years. By refactoring, the aim is to run the code successfully and faster than the original code.
 ## Results: 
-By refactoring the code, the data shows that in 2017 the stock market outperfomed better than 2018. This is displayed clearly by using the conditional code formating of the return column in green (positive return) and red (negative return). In 2017 only one stock (TERP) under performed and had a negative return. By keeping this code from the original green stocks macro and moving it within the refactor code, this makes the data easy to read with clear values and percentages. 
+By refactoring the code, the data shows that in 2017 the stock market outperfomed better than 2018. This is displayed clearly by using the conditional code formating of the return column in green (positive return) and red (negative return). In 2017 only one stock (TERP) under performed and had a negative return. By keeping this code from the original green stocks macro and moving it within the refactor code, this makes the data easy to read with clear daily volume values and percentages. 
 ## 2017 Stock Analysis Results 
 <img width="1440" alt="All Stocks 2017" src="https://user-images.githubusercontent.com/81877387/117559106-9ba3af00-b050-11eb-83af-bcf6ce0ac959.png">
 ##2018 Stock Analysis Results
