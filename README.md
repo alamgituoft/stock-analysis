@@ -5,7 +5,8 @@
 By refactoring the code, the data shows that in 2017 the stock market outperfomed better than 2018. This is displayed clearly by using the conditional code formating of the return column in green (positive return) and red (negative return). In 2017 only one stock (TERP) under performed and had a negative return. By keeping this code from the original green stocks macro and moving it within the refactor code, this makes the data easy to read with clear daily volume values and percentages. 
 ## 2017 Stock Analysis Results 
 <img width="1440" alt="All Stocks 2017" src="https://user-images.githubusercontent.com/81877387/117559106-9ba3af00-b050-11eb-83af-bcf6ce0ac959.png">
-## 2018 Stock Analysis Results
+
+## 2018 Stock Analysis Results 
 <img width="1440" alt="All Stocks 2018" src="https://user-images.githubusercontent.com/81877387/117559108-9d6d7280-b050-11eb-8fca-fa8f7866c00a.png">
 ## Code for formating data with color conditions, percentages & values 
 Formating Code![image](https://user-images.githubusercontent.com/81877387/117559194-516efd80-b051-11eb-99c3-74078eed5590.png)
