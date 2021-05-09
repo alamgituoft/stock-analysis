@@ -21,6 +21,9 @@ Although the refactored code is slightly longer than the original, running the n
 
 ## Summary:
 The advantages of refactoring code is the ability to understand the code and shorten codes to make it run more efficiently. For example, it is a normal process to review somebody elses code and without the process of refactoring code, it is hard to understand why a code was built the way it was and also understand where improvements could be made within the code. 
+
 The disadvantages of refactoring code is that it is very time consuming and may not always have the same results as the structure of the code has changed. This may cause confusion for the recipient and the coder if by refactoring a code, the results is not what was initially conlcluded. 
+
 By refactoring the original code, I was able to understand areas where the code could be shorten, removed or moved within the same lines without creating new sub routines. This made the refactored code much more easier to read and understand by being combined into one, as it was not subroutined into different sections. This also helped me pin point areas where my code was not running correctly in the original script and what could be shortened or removed to produce the same outcome. 
+
 However my refactored code did not meet the aim of the project, which was the refactor the code to run faster. Although it was only slightly longer, it may not be reflective of meeting Steve's goal. 
