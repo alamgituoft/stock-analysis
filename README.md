@@ -2,6 +2,7 @@
 
 ## Project Overview: 
 The purpose of this project is to refactor the code already used in the original script so that the code can be used on a larger dataset to analyze the stock market over the last few years. By refactoring, the aim is to run the code successfully and faster than the original code.
+
 ![image](https://user-images.githubusercontent.com/81877387/147510081-cf2d6e64-243f-41e7-8ed9-50a91df86e58.png)
 
 ## Results: 
