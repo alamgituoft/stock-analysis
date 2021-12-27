@@ -2,6 +2,7 @@
 
 ## Project Overview: 
 The purpose of this project is to refactor the code already used in the original script so that the code can be used on a larger dataset to analyze the stock market over the last few years. By refactoring, the aim is to run the code successfully and faster than the original code.
+![image](https://user-images.githubusercontent.com/81877387/147510081-cf2d6e64-243f-41e7-8ed9-50a91df86e58.png)
 
 ## Results: 
 By refactoring the code, the data shows that in 2017 the stock market outperfomed better than 2018. This is displayed clearly by using the conditional code formating of the return column in green (positive return) and red (negative return). In 2017 only one stock (TERP) under performed and had a negative return. By keeping this code from the original green stocks macro and moving it within the refactor code, this makes the data easy to read with clear daily volume values and percentages. 
